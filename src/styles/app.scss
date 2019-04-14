@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'BlackChancery';
+  src: url('../assets/BlackChancery.eot');
+  src: url('../assets/BlackChancery.eot?#iefix') format('embedded-opentype'),
+      url('../assets/BlackChancery.woff2') format('woff2'),
+      url('../assets/BlackChancery.woff') format('woff'),
+      url('../assets/BlackChancery.svg#BlackChancery') format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+
+body {
+  font-family: 'BlackChancery', Arial, Helvetica, sans-serif !important;
+}
